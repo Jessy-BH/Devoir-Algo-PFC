@@ -35,7 +35,7 @@ public class DevoirAlgoPFC  {
 		
 		do {
 			// Le joueur choisit entre pierre feuille et ciseaux
-			System.out.println("1 pour Pierre, 2 pour Feuille, 3 pour Ciseaux");
+			System.out.println("1 pour Pierre" + "\t" + "2 pour Feuille" + "\t" + "3 pour Ciseaux");
 			System.out.println("Choisir");
 			choix = sc.nextInt(); 
 			
